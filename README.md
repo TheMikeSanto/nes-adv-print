@@ -1,5 +1,5 @@
 # nes-adv-print
-App for controlling 3D printers using an NES Advantage joystick controller via the Octoprint API. Device info shown below was gathered using [this NES to USB adapter](https://www.amazon.com/Tomee-NES-USB-Controller-Adapter-pc/dp/B00HM3QCN2).
+App for controlling 3D printers using an NES Advantage joystick controller via the [Octoprint](https://octoprint.org/) API. Device info shown below was gathered using [this NES to USB adapter](https://www.amazon.com/Tomee-NES-USB-Controller-Adapter-pc/dp/B00HM3QCN2).
 # Dependencies
 I had to install the following to be able to compile the native bindings required for [node-gamepad](https://github.com/creationix/node-gamepad) on my Raspberry Pi:
 ```
